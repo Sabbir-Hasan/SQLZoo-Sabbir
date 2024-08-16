@@ -49,7 +49,7 @@ Show all details of the presidential winners:
 CODE: 
 SELECT * FROM nobel
  WHERE winner IN ('Theodore Roosevelt',
-                  'Thomas Woodrow Wilson',
+                  'Woodrow Wilson',
                   'Jimmy Carter',
                   'Barack Obama');
 
